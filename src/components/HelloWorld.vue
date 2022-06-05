@@ -24,6 +24,8 @@ const count = ref(0)
 
   <button type="button" class="btn btn-link">Link</button>
 
+  <div id="names">TestValue</div>
+
   <p>
     Recommended IDE setup:
     <a href="https://code.visualstudio.com/" target="_blank">VS Code</a>
